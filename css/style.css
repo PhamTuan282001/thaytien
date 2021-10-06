@@ -1,7 +1,15 @@
 .web{
-	height: 170px;
+	height: 200px;
+	width: 400px;
 }
-.viet{
+.text{
+	height: 50px;
+	width: 70px;
+	float: left;
+}
+.col{
+	height: 50px;
+	width: 50px;
+}
 
-}
 /*# sourceMappingURL=style.css.map */
